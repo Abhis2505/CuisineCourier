@@ -1,1 +1,1 @@
-Cuisine Courier is your go-to food delivery service, offering a wide range of delectable meals from top restaurants straight to your doorstep. Our platform ensures a seamless and enjoyable dining experience at home, connecting you with local favorites and international delights.
+Cuisine Courier is a go-to food delivery service, offering a wide range of delectable meals straight to your doorstep. Our platform ensures a seamless and enjoyable dining experience at home, connecting you with local favorites and international delights.
